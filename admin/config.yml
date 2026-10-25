@@ -1,0 +1,127 @@
+# Website editor settings (Sveltia CMS / Decap CMS format)
+backend:
+  name: github
+  repo: dataprovider20-ck/data-prachar-online
+  branch: main
+media_folder: images
+public_folder: /images
+collections:
+  - name: website
+    label: Website
+    files:
+      - name: content
+        label: All website content
+        file: content.json
+        format: json
+        fields:
+          - label: Business details
+            name: site
+            widget: object
+            fields:
+              - { label: Business name, name: name, widget: string }
+              - { label: Top tagline, name: slogan, widget: string }
+              - { label: Short description, name: tagline, widget: text }
+              - { label: Address, name: address, widget: text }
+              - { label: Email, name: email, widget: string }
+              - { label: Mobile number (as shown on website), name: mobile, widget: string }
+              - { label: Number for the Call button (no spaces), name: phone, widget: string, hint: "Example +918800927010" }
+              - { label: WhatsApp number (digits only), name: whatsapp, widget: string, hint: "Example 918800927010" }
+              - { label: Email that receives enquiry and career forms, name: formTo, widget: string }
+              - { label: Google Place ID (optional), name: googlePlaceId, widget: string, required: false }
+              - { label: Google review link (optional), name: googleReviewUrl, widget: string, required: false }
+              - { label: Cities, name: cities, widget: list, field: { label: City, name: city, widget: string } }
+              - label: Social media links
+                name: social
+                widget: list
+                fields:
+                  - { label: Platform, name: n, widget: select, options: [Facebook, Instagram, LinkedIn, YouTube, X] }
+                  - { label: Link, name: u, widget: string }
+          - label: Google titles and descriptions (SEO)
+            name: seo
+            widget: object
+            collapsed: true
+            fields:
+              - label: Home page
+                name: home
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: About us page
+                name: about
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Contact page
+                name: contact
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Career page
+                name: career
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Thank-you page
+                name: thanks
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Privacy Policy page
+                name: privacy
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Terms page
+                name: terms
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+              - label: Compliance page
+                name: compliance
+                widget: object
+                fields:
+                  - { label: Page title, name: title, widget: string }
+                  - { label: Page description, name: desc, widget: text }
+          - label: Services
+            name: services
+            widget: list
+            allow_add: false
+            summary: "{{fields.title}}"
+            fields:
+              - { label: Page ID (do not change), name: id, widget: hidden }
+              - { label: Menu name, name: nav, widget: string }
+              - { label: Service name, name: title, widget: string }
+              - { label: Short line (home page card), name: short, widget: string }
+              - { label: Top paragraph, name: intro, widget: text }
+              - { label: Google title (SEO), name: seoTitle, widget: string }
+              - { label: Google description (SEO), name: seoDesc, widget: text }
+              - { label: Extra SEO paragraph, name: long, widget: text }
+              - { label: About paragraphs, name: about, widget: list, field: { label: Paragraph, name: p, widget: text } }
+              - { label: Who uses it, name: uses, widget: list, field: { label: Item, name: i, widget: string } }
+              - { label: What you get, name: points, widget: list, field: { label: Item, name: i, widget: string } }
+              - label: Questions and answers
+                name: faq
+                widget: list
+                fields:
+                  - { label: Question, name: q, widget: string }
+                  - { label: Answer, name: a, widget: text }
+              - { label: Colour, name: c1, widget: color }
+              - { label: Dark colour, name: c2, widget: color }
+          - label: Customer reviews to show on the home page
+            name: reviews
+            widget: list
+            required: false
+            summary: "{{fields.name}}"
+            fields:
+              - { label: Customer name, name: name, widget: string }
+              - { label: City, name: city, widget: string, required: false }
+              - { label: Stars, name: rating, widget: number, value_type: int, min: 1, max: 5, default: 5 }
+              - { label: Review text, name: text, widget: text }
+          - { label: Jobs listed on the Career page, name: roles, widget: list, field: { label: Job title, name: role, widget: string } }

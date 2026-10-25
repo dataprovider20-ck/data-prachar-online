@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+Sitemap: https://dataprovider20-ck.github.io/data-prachar-online/sitemap.xml

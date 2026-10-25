@@ -1,0 +1,435 @@
+{
+ "site": {
+  "name": "Data Prachar Online",
+  "slogan": "Famous for Authentic service and Looking for long time business engagement",
+  "tagline": "Bulk messaging, verified data and lead generation for businesses across India.",
+  "address": "504, 5th Floor, Westend Mall, Janakpuri West, New Delhi, 110058",
+  "email": "chandrakar40@gmail.com",
+  "mobile": "+91 88009 27010",
+  "phone": "+918800927010",
+  "whatsapp": "918800927010",
+  "formTo": "chandrakar40@gmail.com",
+  "googlePlaceId": "",
+  "googleReviewUrl": "",
+  "cities": [
+   "Delhi",
+   "Mumbai",
+   "Kolkata",
+   "Chennai",
+   "Bangalore",
+   "Bhopal",
+   "Ahmedabad"
+  ],
+  "social": [
+   {
+    "n": "Facebook",
+    "u": "https://www.facebook.com/"
+   },
+   {
+    "n": "Instagram",
+    "u": "https://www.instagram.com/"
+   },
+   {
+    "n": "LinkedIn",
+    "u": "https://www.linkedin.com/"
+   },
+   {
+    "n": "YouTube",
+    "u": "https://www.youtube.com/"
+   },
+   {
+    "n": "X",
+    "u": "https://x.com/"
+   }
+  ]
+ },
+ "seo": {
+  "home": {
+   "title": "Digital Marketing Company in Delhi | Bulk SMS, Email & WhatsApp",
+   "desc": "Data Prachar Online, New Delhi: bulk SMS, email and WhatsApp, mobile and email databases, SEO, affiliate marketing and lead generation. Call +91 88009 27010."
+  },
+  "about": {
+   "title": "About Data Prachar Online | Digital Marketing Company, New Delhi",
+   "desc": "Learn about Data Prachar Online, a New Delhi digital marketing company known for authentic service and long-term business engagement across India."
+  },
+  "contact": {
+   "title": "Contact Data Prachar Online | Janakpuri West, New Delhi",
+   "desc": "Call +91 88009 27010, email chandrakar40@gmail.com or visit Westend Mall, Janakpuri West, New Delhi 110058 for bulk SMS, email, WhatsApp and digital marketing."
+  },
+  "career": {
+   "title": "Career with Data Prachar Online | Digital Marketing Jobs in Delhi",
+   "desc": "Apply for digital marketing, sales, telecalling, SEO and design jobs at Data Prachar Online, New Delhi. Upload your CV and documents online."
+  },
+  "thanks": {
+   "title": "Thank You | Data Prachar Online",
+   "desc": "Thank you for contacting Data Prachar Online. Our team will get back to you soon."
+  },
+  "privacy": {
+   "title": "Privacy Policy | Data Prachar Online",
+   "desc": "How Data Prachar Online collects, uses and protects the details you share through our website forms."
+  },
+  "terms": {
+   "title": "Terms and Conditions | Data Prachar Online",
+   "desc": "Terms and conditions for using the Data Prachar Online website and services."
+  },
+  "compliance": {
+   "title": "Compliance Policy | Data Prachar Online",
+   "desc": "Our messaging and data compliance policy: DLT for SMS, WhatsApp business policy, email rules and data protection."
+  }
+ },
+ "services": [
+  {
+   "id": "sms",
+   "nav": "Bulk SMS",
+   "title": "Bulk SMS",
+   "c1": "#3AA7E8",
+   "c2": "#1B6FB5",
+   "short": "Promotional, transactional and OTP messages that reach every phone.",
+   "intro": "Send offers, alerts and OTPs to thousands of customers in seconds, with a delivery report for every campaign.",
+   "seoTitle": "Bulk SMS Service in Delhi, India | Promotional & OTP SMS",
+   "seoDesc": "Bulk SMS service in India: promotional, transactional and OTP SMS with DLT support, scheduling and delivery reports. Call Data Prachar Online, New Delhi.",
+   "long": "A good bulk SMS service is more than a gateway. Data Prachar Online helps you pick the right route for promotional, transactional or OTP messages, get your sender ID and templates registered, and send at the right time to the right city-wise audience, so your offers are read and your OTPs arrive on time.",
+   "about": [
+    "Bulk SMS is one of the fastest ways to reach customers. Almost every phone can receive a text, and texts are usually seen quickly. It works for shops, schools, banks, clinics and online businesses of any size.",
+    "We help you choose the right route, set up your sender ID and message templates, and schedule each campaign. After sending, you get a delivery report so you know how many messages reached customers."
+   ],
+   "uses": [
+    "Offers, sale alerts and festival greetings",
+    "OTP and login verification",
+    "Payment, order and delivery updates",
+    "Appointment and fee reminders",
+    "Event and admission announcements"
+   ],
+   "points": [
+    "Promotional, transactional and OTP routes",
+    "Sender ID and message template support",
+    "Scheduling and city-wise targeting",
+    "Delivery report after every campaign"
+   ],
+   "faq": [
+    {
+     "q": "What is the difference between promotional and transactional SMS?",
+     "a": "Promotional SMS carries marketing offers. Transactional SMS carries service messages such as OTPs, order updates and payment alerts."
+    },
+    {
+     "q": "Do I need to register anything?",
+     "a": "In India, businesses register their sender IDs and message templates on the telecom operators’ DLT platform before sending. We guide you through the process."
+    },
+    {
+     "q": "Can I see who received the message?",
+     "a": "Yes. Every campaign comes with a delivery report that shows delivered and failed numbers."
+    }
+   ]
+  },
+  {
+   "id": "email",
+   "nav": "Bulk Email",
+   "title": "Bulk Email",
+   "c1": "#F2B705",
+   "c2": "#B07A00",
+   "short": "Newsletters and offers designed to land in the inbox.",
+   "intro": "Professionally designed email campaigns that look right on mobile and desktop, sent in volume without the guesswork.",
+   "seoTitle": "Bulk Email Marketing Service in India | Data Prachar Online",
+   "seoDesc": "Bulk email marketing service: responsive templates, list cleaning, scheduled sends and open and click reports for businesses across India.",
+   "long": "Our bulk email marketing service covers everything from design to delivery. We build mobile-friendly templates, clean and segment your list, send in controlled batches and share open and click reports, so every newsletter or offer email moves your business forward.",
+   "about": [
+    "Email lets you share more than a text can: product images, prices, long offers and links. A well-built campaign keeps your brand in front of customers and sends them back to your website.",
+    "We design the template, clean and segment your list, send in batches that protect your sender reputation, and report on opens and clicks, so each campaign teaches you something for the next one."
+   ],
+   "uses": [
+    "Monthly newsletters",
+    "Product launches and offers",
+    "Webinar and event invitations",
+    "Welcome and follow-up emails",
+    "Renewal and payment reminders"
+   ],
+   "points": [
+    "Responsive email templates",
+    "List cleaning and segmentation",
+    "Open and click tracking",
+    "Scheduled and automated sends"
+   ],
+   "faq": [
+    {
+     "q": "Will my emails reach the inbox?",
+     "a": "No one can promise inbox placement. We lower the risk by cleaning your list, setting up your sending domain properly and avoiding spam-trigger content."
+    },
+    {
+     "q": "Can you design the email for us?",
+     "a": "Yes. We build mobile-friendly templates using your logo, colours and offer."
+    },
+    {
+     "q": "What reports do I get?",
+     "a": "Sent, delivered, opened, clicked and bounced counts for every campaign."
+    }
+   ]
+  },
+  {
+   "id": "whatsapp",
+   "nav": "Bulk WhatsApp",
+   "title": "Bulk WhatsApp",
+   "c1": "#2E86DE",
+   "c2": "#14508F",
+   "short": "Offers, updates and reminders where your customers already chat.",
+   "intro": "Reach customers on the app they check most, with images, PDFs and buttons in every message.",
+   "seoTitle": "Bulk WhatsApp Marketing Service in India | Data Prachar Online",
+   "seoDesc": "Bulk WhatsApp marketing for businesses: broadcasts with images, PDFs and buttons, template approval and reply tracking. Talk to our New Delhi team.",
+   "long": "Our bulk WhatsApp marketing service helps you send catalogues, offers, reminders and updates with images, PDFs and buttons. We take care of template approval, broadcast scheduling and reply tracking, so your team can follow up with interested customers quickly.",
+   "about": [
+    "WhatsApp is where many of your customers already talk every day. Messages with images, PDFs, videos and buttons feel personal and often get quick replies.",
+    "We set up your business number, prepare approved message templates and send broadcasts to your customer lists. Replies are tracked so your team can follow up while interest is high."
+   ],
+   "uses": [
+    "Catalogue and price list sharing",
+    "Order, delivery and booking updates",
+    "Festival and sale offers",
+    "Payment and renewal reminders",
+    "Follow-up after an enquiry"
+   ],
+   "points": [
+    "Broadcasts to your customer lists",
+    "Images, documents and call-to-action buttons",
+    "Message template approval handled for you",
+    "Reply tracking and follow-up"
+   ],
+   "faq": [
+    {
+     "q": "Can I message anyone on a list?",
+     "a": "WhatsApp’s business policy expects you to message people who have agreed to hear from you. We set up campaigns to follow it, so your number stays safe."
+    },
+    {
+     "q": "What are message templates?",
+     "a": "Pre-approved message formats that WhatsApp requires for chats a business starts. We prepare them and handle the approval."
+    },
+    {
+     "q": "Can I send images and PDFs?",
+     "a": "Yes, along with videos and call-to-action buttons."
+    }
+   ]
+  },
+  {
+   "id": "mobile-db",
+   "nav": "Mobile Database",
+   "title": "Mobile Number Database",
+   "c1": "#E8A317",
+   "c2": "#A86F00",
+   "short": "Mobile lists sorted by city, industry and profession.",
+   "intro": "Get the right audience for SMS and WhatsApp campaigns, filtered the way your business needs it.",
+   "seoTitle": "Mobile Number Database in India | City & Industry Wise Lists",
+   "seoDesc": "Mobile number database filtered by city, state, industry and profession, delivered as Excel or CSV for SMS and WhatsApp campaigns. Data Prachar Online, Delhi.",
+   "long": "Our mobile number database is built for focused marketing. Choose by city, state, industry or profession and receive an Excel or CSV file that is ready for bulk SMS or WhatsApp campaigns. Please use it responsibly, in line with TRAI and data protection rules.",
+   "about": [
+    "A good database saves you the time of building a list from scratch. We organise mobile numbers by city, state, industry and profession, so you pick only the audience that fits your product.",
+    "Lists are checked and refreshed regularly and delivered as Excel or CSV, ready to load into your SMS or WhatsApp tool. Tell us who your customer is and we will suggest the right segments."
+   ],
+   "uses": [
+    "Real estate and builders",
+    "Coaching institutes and schools",
+    "Retail and showrooms",
+    "Clinics and healthcare",
+    "Finance and insurance"
+   ],
+   "points": [
+    "Filter by city, state and category",
+    "Regular verification and refresh",
+    "Delivered as Excel or CSV",
+    "Ready to use in bulk SMS and WhatsApp"
+   ],
+   "faq": [
+    {
+     "q": "How are the numbers filtered?",
+     "a": "By city, state, industry, profession and any other category you need."
+    },
+    {
+     "q": "In what format do I get the data?",
+     "a": "As an Excel or CSV file."
+    },
+    {
+     "q": "Are there rules for using the list?",
+     "a": "Yes. Indian telecom rules, including DND preferences, and the Digital Personal Data Protection Act, 2023 apply to marketing messages. We explain what applies before you start, and you should also take your own legal advice."
+    }
+   ]
+  },
+  {
+   "id": "email-db",
+   "nav": "Email Database",
+   "title": "Email Database",
+   "c1": "#5BC0EB",
+   "c2": "#1E86B8",
+   "short": "Business and consumer email lists, filtered for your market.",
+   "intro": "Start campaigns with lists matched to your industry, location and customer type.",
+   "seoTitle": "Email Database in India | Industry & City Wise Email Lists",
+   "seoDesc": "Email database for B2B and consumer marketing: filter by industry, city and designation, verified and delivered as Excel or CSV. Data Prachar Online, Delhi.",
+   "long": "Our email database lets you reach the right decision makers instead of a random list. Pick industry, city and designation, receive a verified Excel or CSV file and load it straight into your bulk email campaign. Please use it in line with Indian data protection rules.",
+   "about": [
+    "Reaching the right inbox matters more than reaching many inboxes. We build email lists by industry, city, company size and designation, so your message goes to people who can actually use your offer.",
+    "Addresses are verified to reduce bounces and delivered as Excel or CSV, ready to load into your bulk email tool."
+   ],
+   "uses": [
+    "B2B sales teams",
+    "Software and IT companies",
+    "Manufacturers and exporters",
+    "Event organisers",
+    "Consultants and agencies"
+   ],
+   "points": [
+    "Filter by industry, city and designation",
+    "Verified to reduce bounces",
+    "Delivered as Excel or CSV",
+    "Ready to use in bulk email campaigns"
+   ],
+   "faq": [
+    {
+     "q": "Can I get emails by designation?",
+     "a": "Yes, for example owners, directors, managers or HR heads, where available."
+    },
+    {
+     "q": "How do you reduce bounces?",
+     "a": "Addresses are verified and refreshed before they are delivered to you."
+    },
+    {
+     "q": "Are there rules for using the list?",
+     "a": "Yes. Indian data protection law, including the Digital Personal Data Protection Act, 2023, applies to marketing emails. We explain what applies before you start, and you should also take your own legal advice."
+    }
+   ]
+  },
+  {
+   "id": "digital",
+   "nav": "SEO / SMO / PPC",
+   "title": "SEO, SMO, PPC, Meta & YouTube",
+   "c1": "#D99A00",
+   "c2": "#8F6200",
+   "short": "Search, social and paid ads handled by one team.",
+   "intro": "One team for every channel where your customers search, scroll and watch.",
+   "seoTitle": "SEO, SMO, PPC, Meta & YouTube Marketing Agency in Delhi",
+   "seoDesc": "Digital marketing agency in Delhi for SEO, social media, Google Ads, Meta Ads and YouTube campaigns. One team, one plan and one monthly report.",
+   "long": "As a digital marketing agency in Delhi, we combine SEO, social media optimisation, Google Ads, Meta Ads and YouTube marketing in one plan. You get one team, one monthly report and clear steps to grow your enquiries and sales online.",
+   "about": [
+    "Customers search on Google, scroll on Instagram and Facebook, and watch videos on YouTube before they buy. Being visible in all three places builds trust and brings steady enquiries.",
+    "We handle SEO to rank your website, SMO to keep your social pages active, PPC and Meta ads for faster results, and YouTube campaigns for video reach. One plan and one monthly report."
+   ],
+   "uses": [
+    "Local shops and showrooms",
+    "Clinics, schools and coaching",
+    "Real estate",
+    "E-commerce stores",
+    "Service and B2B companies"
+   ],
+   "points": [
+    "SEO: on-page, local and content",
+    "SMO: Facebook, Instagram and LinkedIn pages",
+    "PPC: Google Ads search and display",
+    "Meta Ads and YouTube video campaigns"
+   ],
+   "faq": [
+    {
+     "q": "How long does SEO take?",
+     "a": "SEO is a long-term effort. Many websites see movement within three to six months, depending on competition and where you start."
+    },
+    {
+     "q": "Can I start with only ads?",
+     "a": "Yes. PPC and Meta ads can bring enquiries within days while SEO builds in the background."
+    },
+    {
+     "q": "Who manages my social pages?",
+     "a": "We plan the content calendar, design the posts and publish them, with your approval."
+    }
+   ]
+  },
+  {
+   "id": "affiliate",
+   "nav": "Affiliate Marketing",
+   "title": "Affiliate Marketing",
+   "c1": "#4A90D9",
+   "c2": "#1F5A9E",
+   "short": "Pay only for the sales and sign-ups your partners deliver.",
+   "intro": "Build a network of partners who promote your product and earn when they bring you results.",
+   "seoTitle": "Affiliate Marketing Services in India | Pay on Results",
+   "seoDesc": "Affiliate marketing services in India: partner recruitment, tracking links, live dashboards and fraud checks. Pay only for real sales and leads.",
+   "long": "Our affiliate marketing service builds a partner network that promotes your product for a commission. With tracking links, live dashboards and fraud checks, you pay only for sales, sign-ups or leads that are real.",
+   "about": [
+    "In affiliate marketing you pay partners only when they bring a result, such as a sale, a sign-up or a form fill. It lowers your risk because the cost follows performance.",
+    "We find and onboard suitable partners, set up tracking links and a dashboard, agree commissions and watch traffic for fake or duplicate leads before payouts."
+   ],
+   "uses": [
+    "E-commerce brands",
+    "Education and online courses",
+    "Finance and fintech apps",
+    "Travel and hotel booking",
+    "Software and app downloads"
+   ],
+   "points": [
+    "Partner recruitment and onboarding",
+    "Tracking links and live dashboards",
+    "Commission setup and payouts",
+    "Checks against fake or duplicate leads"
+   ],
+   "faq": [
+    {
+     "q": "What do I pay for?",
+     "a": "Only the actions you agree on, such as a sale or a verified lead, at the commission you set."
+    },
+    {
+     "q": "How do you track partner results?",
+     "a": "Each partner gets a unique tracking link, and results show on a live dashboard."
+    },
+    {
+     "q": "How do you stop fake leads?",
+     "a": "We check for duplicates, unusual traffic and invalid contact details before approving payouts."
+    }
+   ]
+  },
+  {
+   "id": "leads",
+   "nav": "Lead Generation",
+   "title": "Lead Generation",
+   "c1": "#F7C948",
+   "c2": "#B8860B",
+   "short": "Enquiries from people ready to talk, not just clicks.",
+   "intro": "Campaigns that bring real enquiries to your sales team, delivered straight to your CRM or sheet.",
+   "seoTitle": "Lead Generation Services in India | Real Enquiries for Sales",
+   "seoDesc": "Lead generation services in India: landing pages, SMS, email, WhatsApp and ad campaigns with qualified leads sent to your CRM or sheet.",
+   "long": "Our lead generation service brings enquiries from people who are interested in what you offer. We combine landing pages, SMS, email, WhatsApp and ads, screen every enquiry and send qualified leads to your CRM, email or spreadsheet.",
+   "about": [
+    "Clicks do not pay the bills, enquiries do. Lead generation focuses on bringing you people who have shown interest and left their contact details.",
+    "We build the landing page and form, run campaigns across SMS, email, WhatsApp and ads, and screen each enquiry before it reaches your sales team. Leads go to your CRM, email or a shared spreadsheet."
+   ],
+   "uses": [
+    "Real estate and builders",
+    "Education and admissions",
+    "Insurance and loans",
+    "Healthcare and wellness",
+    "Interiors, solar and home services"
+   ],
+   "points": [
+    "Landing pages and enquiry forms",
+    "Campaigns across SMS, email, WhatsApp and ads",
+    "Lead qualification before hand-off",
+    "Daily delivery to your CRM or spreadsheet"
+   ],
+   "faq": [
+    {
+     "q": "What counts as a lead?",
+     "a": "We agree this with you at the start, for example a form fill, a call request or a WhatsApp enquiry."
+    },
+    {
+     "q": "How fast do I receive leads?",
+     "a": "Leads are delivered daily, or straight away to your CRM or email if you prefer."
+    },
+    {
+     "q": "Can I target a particular city?",
+     "a": "Yes. Campaigns can be limited to the cities where you work."
+    }
+   ]
+  }
+ ],
+ "reviews": [],
+ "roles": [
+  "Sales and Business Development",
+  "Telecalling and Customer Support",
+  "Digital Marketing Executive",
+  "SEO and Content Writer",
+  "Graphic and Video Designer",
+  "Accounts and Admin"
+ ]
+}
